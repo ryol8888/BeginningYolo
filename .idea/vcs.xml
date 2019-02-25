@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/You_Only_Look_Once" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/convert2Yolo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pytorch-summary" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test_load_voc_dataset/pytorch-summary" vcs="Git" />
+  </component>
+</project>
